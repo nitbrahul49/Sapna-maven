@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+D:\project\test maven\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3898628164.index
+\maven-master\src\main\resources
+D:\project\test maven\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2285846626.index
+\yr\src\main\resources

@@ -1,0 +1,157 @@
+2018-09-07 23:42:52,856 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-09-07 23:43:43,608 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.codebind:maven-demo:0.0.1-SNAPSHOT @ D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master\pom.xml.
+2018-09-07 23:43:44,638 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven-demo/src/main/java
+2018-09-07 23:43:44,640 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven-demo/src/test/java
+2018-09-07 23:43:44,786 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2018-09-07 23:43:45,760 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:43:45,763 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master\src\main\resources
+2018-09-07 23:43:45,766 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:43:45,768 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master\src\test\resources
+2018-09-07 23:43:56,198 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-09-07 23:44:02,773 [Worker-3: Launching finalRepoforMaven-master] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master
+2018-09-07 23:44:02,774 [Worker-3: Launching finalRepoforMaven-master] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2018-09-07 23:45:39,652 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:45:39,654 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master\src\main\resources
+2018-09-07 23:45:39,655 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:45:39,657 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master\src\test\resources
+2018-09-07 23:45:50,700 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-09-07 23:45:56,640 [Worker-7: Launching finalRepoforMaven-master (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master
+2018-09-07 23:45:56,640 [Worker-7: Launching finalRepoforMaven-master (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2018-09-07 23:46:25,580 [Worker-10: Launching Executing install in D__project_test maven_finalRepoforMaven-master_finalRepoforMaven-master] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master
+2018-09-07 23:46:25,580 [Worker-10: Launching Executing install in D__project_test maven_finalRepoforMaven-master_finalRepoforMaven-master] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-09-07 23:46:29,283 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:46:29,286 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master\src\main\resources
+2018-09-07 23:46:29,287 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:46:29,288 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master\src\test\resources
+2018-09-07 23:51:26,517 [Worker-3: Launching Executing clean in D__project_test maven_finalRepoforMaven-master_finalRepoforMaven-master] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master
+2018-09-07 23:51:26,517 [Worker-3: Launching Executing clean in D__project_test maven_finalRepoforMaven-master_finalRepoforMaven-master] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-09-07 23:51:28,209 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:51:28,213 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master\src\main\resources
+2018-09-07 23:51:28,217 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:51:28,220 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master\src\test\resources
+2018-09-07 23:53:57,600 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.codebind:maven-demo:0.0.1-SNAPSHOT @ D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master\pom.xml.
+2018-09-07 23:53:57,801 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven-demo/src/main/java
+2018-09-07 23:53:57,802 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven-demo/src/test/java
+2018-09-07 23:53:57,878 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2018-09-07 23:53:58,315 [Worker-16: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:53:58,317 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master\src\main\resources
+2018-09-07 23:53:58,320 [Worker-16: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:53:58,322 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master\src\test\resources
+2018-09-07 23:55:09,859 [Worker-11: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\project\test maven\hf\pom.xml
+2018-09-07 23:55:09,996 [Worker-11: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: gf:hf:0.0.1-SNAPSHOT @ D:\project\test maven\yr\pom.xml.
+2018-09-07 23:55:10,553 [Worker-11: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yr/src/main/java
+2018-09-07 23:55:10,553 [Worker-11: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /yr/src/main/resources
+2018-09-07 23:55:10,553 [Worker-11: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /yr/src/test/java
+2018-09-07 23:55:11,118 [Worker-11: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2018-09-07 23:55:11,328 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:55:11,335 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-07 23:55:11,336 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:55:11,338 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\yr\src\test\resources
+2018-09-07 23:55:12,549 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:55:12,553 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-07 23:55:12,554 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:55:12,556 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\yr\src\test\resources
+2018-09-07 23:55:35,869 [Worker-9: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: gf:hf:0.0.1-SNAPSHOT @ D:\project\test maven\yr\pom.xml.
+2018-09-07 23:55:36,350 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:55:36,351 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-07 23:55:36,353 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:55:36,354 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\yr\src\test\resources
+2018-09-07 23:55:36,356 [Worker-9: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yr
+2018-09-07 23:55:36,356 [Worker-9: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yr
+2018-09-07 23:55:36,361 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:55:37,503 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:55:37,505 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-07 23:55:37,506 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:55:37,508 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\yr\src\test\resources
+2018-09-07 23:55:49,430 [Worker-3: Launching Executing clean in D__project_test maven_yr] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\project\test maven\yr
+2018-09-07 23:55:49,430 [Worker-3: Launching Executing clean in D__project_test maven_yr] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-09-07 23:55:51,171 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:55:51,182 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-07 23:55:51,183 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:55:51,185 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\yr\src\test\resources
+2018-09-07 23:55:51,185 [Worker-13: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of yr
+2018-09-07 23:55:51,186 [Worker-13: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for yr
+2018-09-07 23:55:51,191 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:58:22,506 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.codebind:maven-demo:0.0.1-SNAPSHOT @ D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master\pom.xml.
+2018-09-07 23:58:22,670 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven-demo/src/main/java
+2018-09-07 23:58:22,671 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven-demo/src/test/java
+2018-09-07 23:58:22,729 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2018-09-07 23:58:23,133 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:58:23,136 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master\src\main\resources
+2018-09-07 23:58:23,137 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:58:23,138 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master\src\test\resources
+2018-09-07 23:58:52,578 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:58:52,580 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master\src\main\resources
+2018-09-07 23:58:52,581 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:58:52,582 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master\src\test\resources
+2018-09-07 23:59:04,280 [Worker-17: Launching Executing install in D__project_test maven_finalRepoforMaven-master_finalRepoforMaven-master] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master
+2018-09-07 23:59:04,280 [Worker-17: Launching Executing install in D__project_test maven_finalRepoforMaven-master_finalRepoforMaven-master] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-09-07 23:59:08,083 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:59:08,086 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master\src\main\resources
+2018-09-07 23:59:08,088 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-07 23:59:08,091 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master\src\test\resources
+2018-09-08 00:00:35,506 [Worker-10: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codebind:maven-demo:0.0.1-SNAPSHOT @ D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master\pom.xml.
+2018-09-08 00:00:36,065 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-08 00:00:36,067 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master\src\main\resources
+2018-09-08 00:00:36,069 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-08 00:00:36,070 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master\src\test\resources
+2018-09-08 00:00:36,070 [Worker-10: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of maven-demo
+2018-09-08 00:00:36,070 [Worker-10: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for maven-demo
+2018-09-08 00:00:36,074 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-08 00:00:49,273 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-09-08 00:00:57,552 [Worker-10: Launching finalRepoforMaven-master (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master
+2018-09-08 00:00:57,552 [Worker-10: Launching finalRepoforMaven-master (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2018-09-08 00:02:07,355 [Worker-3: Launching Executing install in D__project_test maven_finalRepoforMaven-master_finalRepoforMaven-master] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master
+2018-09-08 00:02:07,355 [Worker-3: Launching Executing install in D__project_test maven_finalRepoforMaven-master_finalRepoforMaven-master] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-09-08 00:02:10,782 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-08 00:02:10,786 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master\src\main\resources
+2018-09-08 00:02:10,788 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-08 00:02:10,792 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master\src\test\resources
+2018-09-08 00:02:40,223 [Worker-12: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.codebind:maven-demo:0.0.1-SNAPSHOT @ D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master\pom.xml.
+2018-09-08 00:02:40,421 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-08 00:02:40,422 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master\src\main\resources
+2018-09-08 00:02:40,424 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-08 00:02:40,425 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master\src\test\resources
+2018-09-08 00:03:04,075 [Worker-12: Launching Executing install in D__project_test maven_finalRepoforMaven-master_finalRepoforMaven-master] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\project\test maven\finalRepoforMaven-master\finalRepoforMaven-master
+2018-09-08 00:03:04,075 [Worker-12: Launching Executing install in D__project_test maven_finalRepoforMaven-master_finalRepoforMaven-master] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-09-08 00:04:30,359 [Worker-12: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\project\test maven\maven-master\pom.xml
+2018-09-08 00:04:30,756 [Worker-12: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: maven:maven-master:0.0.1-SNAPSHOT @ D:\project\test maven\maven-master\pom.xml.
+2018-09-08 00:04:31,222 [Worker-12: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven-master/src/main/java
+2018-09-08 00:04:31,222 [Worker-12: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /maven-master/src/main/resources
+2018-09-08 00:04:31,222 [Worker-12: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /maven-master/src/test/java
+2018-09-08 00:04:31,501 [Worker-12: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2018-09-08 00:04:31,694 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-08 00:04:31,696 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-08 00:04:31,698 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-08 00:04:31,699 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\maven-master\src\test\resources
+2018-09-08 00:04:32,825 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-08 00:04:32,828 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-08 00:04:32,829 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-08 00:04:32,831 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\maven-master\src\test\resources
+2018-09-08 00:06:06,438 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/glassfish/org/apache/maven/wagon/wagon-webdav/1.0-beta-2/wagon-webdav-1.0-beta-2.pom
+2018-09-08 00:07:47,774 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.dyndns.org/glassfish/org/apache/maven/wagon/wagon-webdav/1.0-beta-2/wagon-webdav-1.0-beta-2.pom
+2018-09-08 00:07:48,971 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/org/apache/maven/wagon/wagon-webdav/1.0-beta-2/wagon-webdav-1.0-beta-2.pom
+2018-09-08 00:09:29,282 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.dyndns.org/2/org/apache/maven/wagon/wagon-webdav/1.0-beta-2/wagon-webdav-1.0-beta-2.pom
+2018-09-08 00:09:30,767 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-webdav/1.0-beta-2/wagon-webdav-1.0-beta-2.pom
+2018-09-08 00:09:31,102 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-webdav/1.0-beta-2/wagon-webdav-1.0-beta-2.pom
+2018-09-08 00:09:32,514 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/glassfish/org/apache/maven/wagon/wagon-providers/1.0-beta-2/wagon-providers-1.0-beta-2.pom
+2018-09-08 00:11:12,919 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.dyndns.org/glassfish/org/apache/maven/wagon/wagon-providers/1.0-beta-2/wagon-providers-1.0-beta-2.pom
+2018-09-08 00:11:15,522 [Worker-19: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/org/apache/maven/wagon/wagon-providers/1.0-beta-2/wagon-providers-1.0-beta-2.pom
+2018-09-08 00:13:00,515 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-09-08 00:13:02,664 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: maven:maven-master:0.0.1-SNAPSHOT @ D:\project\test maven\maven-master\pom.xml.
+2018-09-08 00:13:02,664 [Worker-9: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: maven:maven-master:0.0.1-SNAPSHOT @ D:\project\test maven\maven-master\pom.xml.
+2018-09-08 00:13:03,623 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-08 00:13:03,629 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-08 00:13:03,631 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-08 00:13:03,633 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\maven-master\src\test\resources
+2018-09-08 00:13:05,308 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: maven:maven-master:0.0.1-SNAPSHOT @ D:\project\test maven\maven-master\pom.xml.
+2018-09-08 00:13:06,621 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-08 00:13:06,625 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-08 00:13:06,629 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-08 00:13:06,631 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\maven-master\src\test\resources
+2018-09-08 00:14:41,610 [Worker-8: Launching Executing install in D__project_test maven_maven-master] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\project\test maven\maven-master
+2018-09-08 00:14:41,611 [Worker-8: Launching Executing install in D__project_test maven_maven-master] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-09-08 00:14:44,626 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-08 00:14:44,630 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-08 00:14:44,633 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-08 00:14:44,636 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\project\test maven\maven-master\src\test\resources
